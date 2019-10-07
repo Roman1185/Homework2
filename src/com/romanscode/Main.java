@@ -19,6 +19,7 @@ public class Main {
             System.out.println(a);
         }
     }
+    //
 
 
        //Task4
@@ -76,4 +77,3 @@ public class Main {
 }
 
         */
-//fdfg
