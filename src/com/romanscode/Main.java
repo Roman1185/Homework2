@@ -11,7 +11,7 @@ public class Main {
     }
 
 
-//Task3
+//Task3.
         var a = 0;
         for (int i = 0; i<=100;i++) {
             a = a + i;
@@ -76,4 +76,3 @@ public class Main {
 }
 
         */
-//fdfg
