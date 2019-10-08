@@ -19,7 +19,7 @@ public class Main {
             System.out.println(a);
         }
     }
-*/
+
        //Task4
    /* var a=0;
     var b=1;
@@ -72,7 +72,4 @@ public class Main {
             System.out.println(i);
         }
     }
-}
-
-   */
-   //h
+    }
