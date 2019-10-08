@@ -9,21 +9,19 @@ public class Main {
         }
     }
     }
-
+*/
 
 //Task3
-        var a = 0;
+       /* var a = 0;
         for (int i = 0; i<=100;i++) {
             a = a + i;
         }
             System.out.println(a);
         }
     }
-    //
-
 
        //Task4
-    var a=0;
+   /* var a=0;
     var b=1;
     var sum=0;
     while(a <=100) {
@@ -40,10 +38,10 @@ public class Main {
 
     }
 
-
+*/
 
         //Task5
-        var a = 100;
+       /* var a = 100;
         var b = 1;
         var sum = 0;
         while (a <= 200) {
@@ -56,10 +54,10 @@ public class Main {
         System.out.println(sum);
     }
     }
-
+*/
 
        //2 задачі з заняття
-    char c=0;
+   /* char c=0;
     for(int i=0;i<=50;i++) {
         c = (char) (i +'a'+ c);
     }
@@ -74,7 +72,4 @@ public class Main {
             System.out.println(i);
         }
     }
-}
-
-        */
-<<
+    }
